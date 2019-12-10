@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":262:{a:2:{s:7:"defects";a:2:{s:36:"Braddle\PersonConsumerTest::testName";i:4;s:45:"Braddle\PersonConsumerTest::testGetPersonById";i:4;}s:5:"times";a:2:{s:36:"Braddle\PersonConsumerTest::testName";d:0.002;s:45:"Braddle\PersonConsumerTest::testGetPersonById";d:0.023;}}}

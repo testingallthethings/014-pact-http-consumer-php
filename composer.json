@@ -9,6 +9,16 @@
       "email": "braddle@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Braddle\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Braddle\\": "tests/"
+    }
+  },
   "require-dev": {
     "phpunit/phpunit": "8.5.0",
     "pact-foundation/pact-php": "5.0.5"
