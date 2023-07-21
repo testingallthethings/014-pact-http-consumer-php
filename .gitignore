@@ -80,3 +80,6 @@ composer.phar
 # composer.lock
 
 example/logs
+
+# Pact CLI tools
+pact/
